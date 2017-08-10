@@ -1,7 +1,18 @@
 # StaffChat
 
-A simple StaffChat plugin!
+A simple StaffChat plugin.
 
-1 Class, 1 Config.
+#
 
-Version 1.8.
+# Info
+
+Version: 1.8
+
+
+# Installation
+
+You have to compile the main.java with config.yml && plugin.yml
+
+# Use
+
+You can use it in a Minecraft Server.
