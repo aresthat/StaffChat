@@ -1,0 +1,7 @@
+name: StaffChat
+version: 1.0
+main: me.aresthat.staffchat.main
+author: AresThat
+commands:
+  staffchat:
+    description: attiva / disattiva la staffchat!
